@@ -1,1 +1,2 @@
-Dummy text
+
+### This is the folder that contains the solutions of the first course 
